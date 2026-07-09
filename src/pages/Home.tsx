@@ -191,9 +191,7 @@ export default function Home() {
                 alt="Professional laptop repair technician"
                 className="max-w-[480px] w-full h-auto animate-float drop-shadow-2xl"
               />
-              <div className="absolute top-4 right-4 bg-emerald-500/20 border border-emerald-500/30 text-emerald-300 px-4 py-2 rounded-full text-sm font-medium animate-bounce-slow">
-                10,000+ Happy Customers
-              </div>
+              
             </div>
           </div>
         </div>

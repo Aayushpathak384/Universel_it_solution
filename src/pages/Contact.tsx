@@ -166,7 +166,7 @@ export default function Contact() {
           </div>
           <div className="text-center mt-6">
             <a
-              href="https://www.google.com/maps/dir//Muzaffarpur,+Bihar/@26.12,85.35,14z"
+              href="https://maps.app.goo.gl/AYZdCuduDWUky1GLA"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center gap-2 px-8 py-3.5 rounded-lg bg-[#2563EB] text-white font-semibold hover:bg-[#1D4ED8] transition-all"
